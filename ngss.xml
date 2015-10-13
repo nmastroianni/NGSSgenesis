@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Set setCode="NGSS" setName="Next Generation Standards Science" setSeq="980">
+    <setUrl></setUrl>
+    <Subject setCode="NGSS" subjectCode="1" subjectSeq="10">
+        <Description>Science</Description>
+        <subjectUrl></subjectUrl>
+        <Standard setCode="NGSS" subjectCode="1" standardCode="4">
+            <Description></Description>
+            <standardName>Engineering Design</standardName>
+            <Strand setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1">
+                <Description></Description>
+                <strandName>Science</strandName>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions
+that account for societal needs and wants.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Design a solution to a complex real-world problem by breaking it down into smaller, more manageable
+problems that can be solved through engineering.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account
+for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural,
+and environmental impacts.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with
+numerous criteria and constraints on interactions within and between systems relevant to the problem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution,
+taking into account relevant scientific principles and potential impacts on people and the natural environment
+that may limit possible solutions.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Evaluate competing design solutions using a systematic process to determine how well they meet the criteria
+and constraints of the problem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze data from tests to determine similarities and differences among several design solutions to identify
+the best characteristics of each that can be combined into a new solution to better meet the criteria for
+success.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process
+such that an optimal design can be achieved.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+            </Strand>
+        </Standard>
+        <Standard setCode="NGSS" subjectCode="1" standardCode="3">
+            <Description></Description>
+            <standardName>Earth and Space Science</standardName>
+            <Strand setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1">
+                <Description></Description>
+                <strandName>Science</strandName>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the
+sun's core to release energy that eventually reaches Earth in the form of radiation.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of
+distant galaxies, and composition of matter in the universe.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Communicate scientific ideas about the way stars, over their life cycle, produce elements.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical or computational representations to predict the motion of orbiting objects in the solar
+system.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate
+tectonics to explain the ages of crustal rocks.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="1.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary
+surfaces to construct an account of Earth's formation and early history.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a model to illustrate how Earth's internal and surface processes operate at different spatial and
+temporal scales to form continental and ocean-floor features.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that
+cause changes to other Earth systems.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a model based on evidence of Earth's interior to describe the cycling of matter by thermal convection.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a model to describe how variations in the flow of energy into and out of Earth's systems result in changes
+in climate.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface
+processes.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere,
+geosphere, and biosphere.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="2.7" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an argument based on evidence about the simultaneous coevolution of Earth's systems and life on
+Earth.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural
+hazards, and changes in climate have influenced human activity.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources
+based on cost-benefit ratios.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Create a computational simulation to illustrate the relationships among management of natural resources, the
+sustainability of human populations, and biodiversity.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the
+current rate of global or regional climate change and associated future impacts to Earth systems.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a computational representation to illustrate the relationships among Earth systems and how those
+relationships are being modified due to human activity.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases,
+eclipses of the sun and moon, and seasons.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data to determine scale properties of objects in the solar system.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used
+to organize Earth's 4.6-billion-year-old history.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an explanation based on evidence for how geoscience processes have changed Earth's surface at
+varying time and spatial scales.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the
+force of gravity.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Collect data to provide evidence for how the motions and complex interactions of air masses results in changes
+in weather conditions.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="2.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of
+atmospheric and oceanic circulation that determine regional climates.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct a scientific explanation based on evidence for how the uneven distributions of Earth's mineral, energy,
+and groundwater resources are the result of past and current geoscience processes.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development
+of technologies to mitigate their effects.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument supported by evidence for how increases in human population and per-capita consumption
+of natural resources impact Earth's systems.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="6" cpiCode="3.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past
+century.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+            </Strand>
+        </Standard>
+        <Standard setCode="NGSS" subjectCode="1" standardCode="2">
+            <Description></Description>
+            <standardName>Life Science</standardName>
+            <Strand setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1">
+                <Description></Description>
+                <strandName>Science</strandName>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an explanation based on evidence for how the structure of DNA determines the structure of
+proteins which carry out the essential functions of life through systems of specialized cells.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop and use a model to illustrate the hierarchical organization of interacting systems that provide
+specific functions within multicellular organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and
+maintaining complex organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar
+molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="1.7" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules
+and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of
+energy.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical and/or computational representations to support explanations of factors that affect carrying
+capacity of ecosystems at different scales.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations to support and revise explanations based on evidence about factors affecting
+biodiversity and populations in ecosystems of different scales.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic
+and anaerobic conditions.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations to support claims for the cycling of matter and flow of energy among
+organisms in an ecosystem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among
+the biosphere, atmosphere, hydrosphere, and geosphere.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively
+consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new
+ecosystem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.7" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and
+biodiversity.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="2.8" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate the evidence for the role of group behavior on individual and species' chances to survive and reproduce.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for
+characteristic traits passed from parents to offspring.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic
+combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by
+environmental factors.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a
+population.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Communicate scientific information that common ancestry and biological evolution are supported by multiple
+lines of empirical evidence.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1)
+the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due
+to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those
+organisms that are better able to survive and reproduce in the environment.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Apply concepts of statistics and probability to support explanations that organisms with an advantageous
+heritable trait tend to increase in proportion to organisms lacking this trait.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct an explanation based on evidence for how natural selection leads to adaptation of populations.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate the evidence supporting claims that changes in environmental conditions may result in: (1) increases in
+the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of
+other species.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="12" cpiCode="4.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Conduct an investigation to provide evidence that living things are made of cells; either one cell or many
+different numbers and types of cells.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe the function of a cell as a whole and ways parts of cells contribute to the
+function.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use argument supported by evidence for how the body is a system of interacting subsystems composed of
+groups of cells.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use argument based on empirical evidence and scientific reasoning to support an explanation for how
+characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction
+of animals and plants respectively.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct a scientific explanation based on evidence for how environmental and genetic factors influence the
+growth of organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and
+flow of energy into and out of organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.7" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe how food is rearranged through chemical reactions forming new molecules that
+support growth and/or release energy as this matter moves through an organism.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="1.8" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain
+for immediate behavior or storage as memories.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data to provide evidence for the effects of resource availability on organisms and
+populations of organisms in an ecosystem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an
+ecosystem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument supported by empirical evidence that changes to physical or biological components of an
+ecosystem affect populations.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Evaluate competing design solutions for maintaining biodiversity and ecosystem services.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may
+affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the
+organism.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe why asexual reproduction results in offspring with identical genetic
+information and sexual reproduction results in offspring with genetic variation.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction,
+and change of life forms throughout the history of life on Earth under the assumption that natural laws operate
+today as in the past.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern
+organisms and between modern and fossil organisms to infer evolutionary relationships.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze displays of pictorial data to compare patterns of similarities in the embryological development across
+multiple species to identify relationships not evident in the fully formed anatomy.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an explanation based on evidence that describes how genetic variations of traits in a population
+increase some individuals' probability of surviving and reproducing in a specific environment.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Gather and synthesize information about the technologies that have changed the way humans influence the
+inheritance of desired traits in organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use mathematical representations to support explanations of how natural selection may lead to increases and
+decreases of specific traits in populations over time.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="5" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Support an argument that plants get the materials they need for growth chiefly from air and water.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="5" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="4" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="4" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use a model to describe that animals receive different types of information through their senses, process the information in their brain, and respond to the information in different ways.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop models to describe that organisms have unique and diverse life cycles but all have in common birth, growth, reproduction, and death.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument that some animals form groups that help members survive.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use evidence to support the explanation that traits can be influenced by the environment.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data from fossils to provide evidence of the organisms and the environments in which they lived long ago.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use evidence to construct an explanation for how the variations in characteristics among individuals of the same species may provide advantages in surviving, finding mates, and reproducing.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well, and some cannot survive at all.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="3" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+            </Strand>
+        </Standard>
+        <Standard setCode="NGSS" subjectCode="1" standardCode="1">
+            <Description></Description>
+            <standardName>Physical Science</standardName>
+            <Strand setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1">
+                <Description></Description>
+                <strandName>Science</strandName>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use the periodic table as model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Construct and revise an explanation for the outcome of a simple chemical reaction based on the outermost
+electron states of atoms, trends in the periodic table, and knowledge of the patterns of chemical properties.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Plan and conduct an investigation to gather evidence to compare the structure of substances at the bulk scale
+to infer the strength of electrical forces between particles.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop a model to illustrate that the release or absorption of energy from a chemical reaction system
+depends upon the changes in total bond energy.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Apply scientific principles and evidence to provide an explanation about the effects of changing the
+temperature or concentration of the reacting particles on the rate at which a reaction occurs.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Refine the design of a chemical system by specifying a change in conditions that would produce increased
+amounts of products at equilibrium.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.7" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations to support the claim that atoms, and therefore mass, are conserved during
+a chemical reaction.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="1.8" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy
+released during the processes of fission, fusion, and radioactive decay.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Analyze data to support the claim that Newton's second law of motion describes the mathematical relationship
+among the net force on a macroscopic object, its mass, and its acceleration.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations to support the claim that the total momentum of a system of objects is
+conserved when there is no net force on the system.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a
+macroscopic object during a collision.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations of Newton's Law of Gravitation and Coulomb's Law to describe and predict
+the gravitational and electrostatic forces between objects.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and
+that a changing magnetic field can produce an electric current.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="2.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Communicate scientific and technical information about why the molecular-level structure is important in the
+functioning of designed materials.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Create a computational model to calculate the change in the energy of one component in a system when the
+change in energy of the other component(s) and energy flows in and out of the system are known.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a
+combination of energy associated with the motions of particles (objects) and energy associated with the
+relative position of particles (objects).</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Design, build, and refine a device that works within given constraints to convert one form of energy into
+another form of energy.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two
+components of different temperature are combined within a closed system results in a more uniform energy
+distribution among the components in the system (second law of thermodynamics).</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces
+between objects and the changes in energy of the objects due to the interaction.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Use mathematical representations to support a claim regarding relationships among the frequency, wavelength,
+and speed of waves traveling in various media.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate questions about the advantages of using a digital transmission and storage of information.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described
+either by a wave model or a particle model, and that for some situations one model is more useful than the other.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of
+electromagnetic radiation have when absorbed by matter.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
+                    <Description>Communicate technical information about how some technological devices use the principles of wave behavior
+and wave interactions with matter to transmit and capture information and energy.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop models to describe the atomic composition of simple molecules and extended structures.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Gather and make sense of information to describe that synthetic materials come from natural resources and
+impact society.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure
+substance when thermal energy is added or removed.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and
+thus mass is conserved.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="1.6" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy
+by chemical processes.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Apply Newton's Third Law to design a solution to a problem involving the motion of two colliding objects.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan an investigation to provide evidence that the change in an object's motion depends on the sum of the
+forces on the object and the mass of the object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct and present arguments using evidence to support the claim that gravitational interactions are
+attractive and depend on the masses of interacting objects.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="2.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between
+objects exerting forces on each other even though the objects are not in contact.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an
+object and to the speed of an object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe that when the arrangement of objects interacting at a distance changes, different
+amounts of potential energy are stored in the system.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal
+energy transfer.*</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass,
+and the change in the average kinetic energy of the particles as measured by the temperature of the sample.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="3.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes,
+energy is transferred to or from the object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use mathematical representations to describe a simple model for waves that includes how the amplitude of a
+wave is related to the energy in a wave.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various
+materials.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="6" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Integrate qualitative scientific and technical information to support the claim that digitized signals are a more
+reliable way to encode and transmit information than analog signals.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe that matter is made of particles too small to be seen.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Measure and graph quantities to provide evidence that regardless of the type of change that occurs when
+heating, cooling, or mixing substances, the total weight of matter is conserved.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations and measurements to identify materials based on their properties.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Conduct an investigation to determine whether the mixing of two or more substances results in new substances.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Support an argument that the gravitational force exerted by Earth on objects is directed down.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use models to describe that energy in animals’ food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use evidence to construct an explanation relating the speed of an object to the energy of that object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions and predict outcomes about the changes in energy that occur when objects collide.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Apply scientific ideas to design, test, and refine a device that converts energy from one form to another.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model of waves to describe patterns in terms of amplitude and wavelength and that waves can cause objects to move.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Generate and compare multiple solutions that use patterns to transfer information.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations and/or measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions to determine cause and effect relationships of electric or magnetic interactions between two objects not in contact with each other.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Define a simple design problem that can be solved by applying scientific ideas about magnets.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="2" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="2" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze data obtained from testing different materials to determine which materials have the properties that are best suited for an intended purpose.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="2" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations to construct an evidence-based account of how an object made of a small set of pieces can be disassembled and made into a new object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="2" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="1" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and conduct investigations to provide evidence that vibrating materials can make sound and that sound can make materials vibrate.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="1" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations to construct an evidence-based account that objects in darkness can be seen only when illuminated.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="1" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and conduct investigations to determine the effect of placing objects made with different materials in the path of a beam of light.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="1" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use tools and materials to design and build a device that uses light or sound to solve the problem of communicating over a distance.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="2.1" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="2.2" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="3.1" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations to determine the effect of sunlight on Earth’s surface.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="3.2" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+            </Strand>
+        </Standard>
+    </Subject>
+</Set>
