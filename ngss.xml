@@ -53,6 +53,30 @@ success.</Description>
 such that an optimal design can be achieved.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="5" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="true" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="5" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="true" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="5" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="true" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="2" cpiCode="1.1" headerCpiCode="" forK="true" forP="false" for01="true" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="2" cpiCode="1.2" headerCpiCode="" forK="true" forP="false" for01="true" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="2" cpiCode="1.3" headerCpiCode="" forK="true" forP="false" for01="true" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
             </Strand>
         </Standard>
         <Standard setCode="NGSS" subjectCode="1" standardCode="3">
@@ -257,6 +281,62 @@ century.</Description>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="4" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
                     <Description>Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="3" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="3" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Obtain and combine information to describe climates in different regions of the world.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="3" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="2" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use information from several sources to provide evidence that Earth events can occur quickly or slowly.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="2" cpiCode="2.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Compare multiple solutions designed to slow or prevent wind or water from changing the shape of the land.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="2" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Develop a model to represent the shapes and kinds of land and bodies of water in an area.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="2" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="true" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Obtain information to identify where water is found on Earth and that it can be solid or liquid.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="1" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use observations of the sun, moon, and stars to describe patterns that can be predicted.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="1" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="true" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Make observations at different times of year to relate the amount of daylight to the time of year.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="K" cpiCode="2.1" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use and share observations of local weather conditions to describe patterns over time.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="K" cpiCode="2.2" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="K" cpiCode="3.1" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Use a model to represent the relationship between the needs of different plants and animals (including humans) and the places they live.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="K" cpiCode="3.2" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Ask questions to obtain information about the purpose of weather forecasting to prepare for, and respond to, severe weather.</Description>
+                    <contentStatement></contentStatement>
+                </CPI>
+                <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="K" cpiCode="3.3" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
+                    <Description>Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
             </Strand>
