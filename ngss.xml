@@ -260,7 +260,7 @@ century.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="5" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Obtain and combine information about ways individual communities use science ideas to protect the Earth’s resources and environment.</Description>
+                    <Description>Obtain and combine information about ways individual communities use science ideas to protect the Earth's resources and environment.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="4" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -272,7 +272,7 @@ century.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="4" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Analyze and interpret data from maps to describe patterns of Earth’s features.</Description>
+                    <Description>Analyze and interpret data from maps to describe patterns of Earth's features.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="4" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -891,7 +891,7 @@ heating, cooling, or mixing substances, the total weight of matter is conserved.
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="5" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="true" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Use models to describe that energy in animals’ food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.</Description>
+                    <Description>Use models to describe that energy in animals' food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="4" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="true" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -927,7 +927,7 @@ heating, cooling, or mixing substances, the total weight of matter is conserved.
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Make observations and/or measurements of an object’s motion to provide evidence that a pattern can be used to predict future motion.</Description>
+                    <Description>Make observations and/or measurements of an object's motion to provide evidence that a pattern can be used to predict future motion.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="3" cpiCode="2.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="true" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -979,7 +979,7 @@ heating, cooling, or mixing substances, the total weight of matter is conserved.
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="3.1" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Make observations to determine the effect of sunlight on Earth’s surface.</Description>
+                    <Description>Make observations to determine the effect of sunlight on Earth's surface.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="K" cpiCode="3.2" headerCpiCode="" forK="true" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
