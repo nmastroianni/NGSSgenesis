@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Set setCode="NGSS2015" setName="Next Generation Science Standards Compete" setSeq="980">
+<Set setCode="NGSS2015" setName="Next Generation Science Standards Complete" setSeq="980">
     <setUrl>http://www.nextgenscience.org</setUrl>
     <Subject setCode="NGSS2015" subjectCode="1" subjectSeq="10">
         <Description>Science</Description>
