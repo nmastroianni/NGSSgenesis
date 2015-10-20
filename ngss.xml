@@ -21,9 +21,7 @@ problems that can be solved through engineering.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
-                    <Description>Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account
-for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural,
-and environmental impacts.</Description>
+                    <Description>Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="12" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
@@ -33,8 +31,7 @@ numerous criteria and constraints on interactions within and between systems rel
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
                     <Description>Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution,
-taking into account relevant scientific principles and potential impacts on people and the natural environment
-that may limit possible solutions.</Description>
+taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -44,8 +41,7 @@ and constraints of the problem.</Description>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
                     <Description>Analyze data from tests to determine similarities and differences among several design solutions to identify
-the best characteristics of each that can be combined into a new solution to better meet the criteria for
-success.</Description>
+the best characteristics of each that can be combined into a new solution to better meet the criteria for success.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="4" strandCode="1" gradeLevel="6" cpiCode="1.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -154,8 +150,7 @@ hazards, and changes in climate have influenced human activity.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
-                    <Description>Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources
-based on cost-benefit ratios.*</Description>
+                    <Description>Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.*</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="3" strandCode="1" gradeLevel="12" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
@@ -533,30 +528,23 @@ ecosystem affect populations.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="3.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may
-affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the
-organism.</Description>
+                    <Description>Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Develop and use a model to describe why asexual reproduction results in offspring with identical genetic
-information and sexual reproduction results in offspring with genetic variation.</Description>
+                    <Description>Develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction,
-and change of life forms throughout the history of life on Earth under the assumption that natural laws operate
-today as in the past.</Description>
+                    <Description>Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on Earth under the assumption that natural laws operate today as in the past.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern
-organisms and between modern and fossil organisms to infer evolutionary relationships.</Description>
+                    <Description>Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
-                    <Description>Analyze displays of pictorial data to compare patterns of similarities in the embryological development across
-multiple species to identify relationships not evident in the fully formed anatomy.</Description>
+                    <Description>Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="2" strandCode="1" gradeLevel="6" cpiCode="4.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="true" for07="true" for08="true" for09="false" for10="false" for11="false" for12="false" isSelectable="false">
@@ -733,9 +721,7 @@ change in energy of the other component(s) and energy flows in and out of the sy
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
-                    <Description>Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a
-combination of energy associated with the motions of particles (objects) and energy associated with the
-relative position of particles (objects).</Description>
+                    <Description>Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as a combination of energy associated with the motions of particles (objects) and energy associated with the relative position of particles (objects).</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.3" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
@@ -744,9 +730,7 @@ another form of energy.*</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.4" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
-                    <Description>Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two
-components of different temperature are combined within a closed system results in a more uniform energy
-distribution among the components in the system (second law of thermodynamics).</Description>
+                    <Description>Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics).</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="3.5" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
@@ -755,8 +739,7 @@ between objects and the changes in energy of the objects due to the interaction.
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.1" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
-                    <Description>Use mathematical representations to support a claim regarding relationships among the frequency, wavelength,
-and speed of waves traveling in various media.</Description>
+                    <Description>Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.</Description>
                     <contentStatement></contentStatement>
                 </CPI>
                 <CPI setCode="NGSS" subjectCode="1" standardCode="1" strandCode="1" gradeLevel="12" cpiCode="4.2" headerCpiCode="" forK="false" forP="false" for01="false" for02="false" for03="false" for04="false" for05="false" for06="false" for07="false" for08="false" for09="true" for10="true" for11="true" for12="true" isSelectable="false">
